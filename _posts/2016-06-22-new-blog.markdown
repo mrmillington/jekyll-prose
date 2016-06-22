@@ -1,0 +1,9 @@
+---
+layout: post
+title: New Blog
+date: 2016-06-22T11:19:00.000Z
+categories: jekyll update
+---
+
+
+<div class="editable">Content</div>
